@@ -1,4 +1,4 @@
-###### Telegram Study Bot
+# Telegram Study Bot
 ### --PT-BR--
   Bot feito para enviar o conteúdo da matéria na hora que você mais precisa, na hora que você quer ESTUDAR e não colar, colar é errado, faça por sua conta e risco
 ### --EN--
